@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerControllerX : MonoBehaviour {
-    public float speed;
-    public float xRange;
-    public float horizontalInput;
+    private float speed = 10;
+    private float xRange = 10;
+    private float horizontalInput;
+    public GameObject projectilePrefab;
 
     private void Update() {
         horizontalInput = Input.GetAxis("Horizontal");
@@ -17,6 +18,10 @@ public class PlayerControllerX : MonoBehaviour {
         }
         if (transform.position.x > xRange) {
             transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
+        }
+        
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
         }
 
     }
