@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 5cffd02f329556b48a122caf2426df2f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ChickRig_FootL_AuxSHJnt
+  - first:
+      1: 100002
+    second: ChickRig_FootR_AuxSHJnt
+  - first:
+      1: 100004
+    second: ChickRig_Head_AuxSHJnt
+  - first:
+      1: 100006
+    second: ChickRig_l_Leg_AuxSHJnt
+  - first:
+      1: 100008
+    second: ChickRig_r_Leg_AuxSHJnt
+  - first:
+      1: 100010
+    second: ChickRig_ROOTSHJnt
+  - first:
+      1: 100012
+    second: ChickRig_SHJntGrp
+  - first:
+      1: 100014
+    second: ChickRig_Tail_AuxSHJnt
+  - first:
+      1: 100016
+    second: SA_Animal_Chick
+  - first:
+      1: 100018
+    second: //RootNode
+  - first:
+      4: 400000
+    second: ChickRig_FootL_AuxSHJnt
+  - first:
+      4: 400002
+    second: ChickRig_FootR_AuxSHJnt
+  - first:
+      4: 400004
+    second: ChickRig_Head_AuxSHJnt
+  - first:
+      4: 400006
+    second: ChickRig_l_Leg_AuxSHJnt
+  - first:
+      4: 400008
+    second: ChickRig_r_Leg_AuxSHJnt
+  - first:
+      4: 400010
+    second: ChickRig_ROOTSHJnt
+  - first:
+      4: 400012
+    second: ChickRig_SHJntGrp
+  - first:
+      4: 400014
+    second: ChickRig_Tail_AuxSHJnt
+  - first:
+      4: 400016
+    second: SA_Animal_Chick
+  - first:
+      4: 400018
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: SA_Animal_Chick
+  - first:
+      74: 7400000
+    second: Chick_Idle
+  - first:
+      74: 7400002
+    second: Chick_Walk
+  - first:
+      74: 7400004
+    second: Chick_Run
+  - first:
+      74: 7400006
+    second: Chick_Eat
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SA_Animal_Chick
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chick_Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickRig_SHJntGrp
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Head_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt/ChickRig_FootL_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt/ChickRig_FootR_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Tail_AuxSHJnt
+        weight: 1
+      - path: SA_Animal_Chick
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chick_Walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 130
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickRig_SHJntGrp
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Head_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt/ChickRig_FootL_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt/ChickRig_FootR_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Tail_AuxSHJnt
+        weight: 1
+      - path: SA_Animal_Chick
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chick_Run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 130
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickRig_SHJntGrp
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Head_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt/ChickRig_FootL_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt/ChickRig_FootR_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Tail_AuxSHJnt
+        weight: 1
+      - path: SA_Animal_Chick
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chick_Eat
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 150
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickRig_SHJntGrp
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Head_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_l_Leg_AuxSHJnt/ChickRig_FootL_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_r_Leg_AuxSHJnt/ChickRig_FootR_AuxSHJnt
+        weight: 1
+      - path: ChickRig_SHJntGrp/ChickRig_ROOTSHJnt/ChickRig_Tail_AuxSHJnt
+        weight: 1
+      - path: SA_Animal_Chick
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 20
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

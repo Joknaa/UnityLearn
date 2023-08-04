@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 693459689483f9e4aa5a1a6e8b37269e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ChickenRig_Head_TopSHJnt
+  - first:
+      1: 100002
+    second: ChickenRig_l_Leg_AnkleSHJnt
+  - first:
+      1: 100004
+    second: ChickenRig_l_Leg_BallSHJnt
+  - first:
+      1: 100006
+    second: ChickenRig_l_Leg_HipSHJnt
+  - first:
+      1: 100008
+    second: ChickenRig_l_Leg_KneeSHJnt
+  - first:
+      1: 100010
+    second: ChickenRig_l_Leg_ToeSHJnt
+  - first:
+      1: 100012
+    second: ChickenRig_Neck_01SHJnt
+  - first:
+      1: 100014
+    second: ChickenRig_Neck_02SHJnt
+  - first:
+      1: 100016
+    second: ChickenRig_Neck_TopSHJnt
+  - first:
+      1: 100018
+    second: ChickenRig_r_Leg_AnkleSHJnt
+  - first:
+      1: 100020
+    second: ChickenRig_r_Leg_BallSHJnt
+  - first:
+      1: 100022
+    second: ChickenRig_r_Leg_HipSHJnt
+  - first:
+      1: 100024
+    second: ChickenRig_r_Leg_KneeSHJnt
+  - first:
+      1: 100026
+    second: ChickenRig_r_Leg_ToeSHJnt
+  - first:
+      1: 100028
+    second: ChickenRig_ROOTSHJnt
+  - first:
+      1: 100030
+    second: ChickenRig_SHJntGrp
+  - first:
+      1: 100032
+    second: ChickenRig_Tail_01SHJnt
+  - first:
+      1: 100034
+    second: ChickenRig_Tail_02SHJnt
+  - first:
+      1: 100036
+    second: ChickenRig_Tail_TopSHJnt
+  - first:
+      1: 100038
+    second: //RootNode
+  - first:
+      1: 100040
+    second: SA_Animals_Chicken_Brown_U
+  - first:
+      1: 100042
+    second: SA_Animals_Chicken_White
+  - first:
+      1: 100044
+    second: SA_Animals_Duck_Brown_U
+  - first:
+      1: 100046
+    second: SA_Animals_Duck_Green
+  - first:
+      1: 100048
+    second: SA_Animals_Duck_White_U
+  - first:
+      1: 100050
+    second: SA_Animals_Rooster_Black
+  - first:
+      1: 100052
+    second: SA_Animals_Rooster_Brown_U
+  - first:
+      1: 100054
+    second: SA_Animals_Chicken_Brown
+  - first:
+      1: 100056
+    second: SA_Animals_Duck_Brown
+  - first:
+      1: 100058
+    second: SA_Animals_Duck_White
+  - first:
+      1: 100060
+    second: SA_Animals_Rooster_Brown
+  - first:
+      4: 400000
+    second: ChickenRig_Head_TopSHJnt
+  - first:
+      4: 400002
+    second: ChickenRig_l_Leg_AnkleSHJnt
+  - first:
+      4: 400004
+    second: ChickenRig_l_Leg_BallSHJnt
+  - first:
+      4: 400006
+    second: ChickenRig_l_Leg_HipSHJnt
+  - first:
+      4: 400008
+    second: ChickenRig_l_Leg_KneeSHJnt
+  - first:
+      4: 400010
+    second: ChickenRig_l_Leg_ToeSHJnt
+  - first:
+      4: 400012
+    second: ChickenRig_Neck_01SHJnt
+  - first:
+      4: 400014
+    second: ChickenRig_Neck_02SHJnt
+  - first:
+      4: 400016
+    second: ChickenRig_Neck_TopSHJnt
+  - first:
+      4: 400018
+    second: ChickenRig_r_Leg_AnkleSHJnt
+  - first:
+      4: 400020
+    second: ChickenRig_r_Leg_BallSHJnt
+  - first:
+      4: 400022
+    second: ChickenRig_r_Leg_HipSHJnt
+  - first:
+      4: 400024
+    second: ChickenRig_r_Leg_KneeSHJnt
+  - first:
+      4: 400026
+    second: ChickenRig_r_Leg_ToeSHJnt
+  - first:
+      4: 400028
+    second: ChickenRig_ROOTSHJnt
+  - first:
+      4: 400030
+    second: ChickenRig_SHJntGrp
+  - first:
+      4: 400032
+    second: ChickenRig_Tail_01SHJnt
+  - first:
+      4: 400034
+    second: ChickenRig_Tail_02SHJnt
+  - first:
+      4: 400036
+    second: ChickenRig_Tail_TopSHJnt
+  - first:
+      4: 400038
+    second: //RootNode
+  - first:
+      4: 400040
+    second: SA_Animals_Chicken_Brown_U
+  - first:
+      4: 400042
+    second: SA_Animals_Chicken_White
+  - first:
+      4: 400044
+    second: SA_Animals_Duck_Brown_U
+  - first:
+      4: 400046
+    second: SA_Animals_Duck_Green
+  - first:
+      4: 400048
+    second: SA_Animals_Duck_White_U
+  - first:
+      4: 400050
+    second: SA_Animals_Rooster_Black
+  - first:
+      4: 400052
+    second: SA_Animals_Rooster_Brown_U
+  - first:
+      4: 400054
+    second: SA_Animals_Chicken_Brown
+  - first:
+      4: 400056
+    second: SA_Animals_Duck_Brown
+  - first:
+      4: 400058
+    second: SA_Animals_Duck_White
+  - first:
+      4: 400060
+    second: SA_Animals_Rooster_Brown
+  - first:
+      23: 2300000
+    second: SA_Animals_Chicken_Brown_U
+  - first:
+      23: 2300002
+    second: SA_Animals_Duck_Brown_U
+  - first:
+      23: 2300004
+    second: SA_Animals_Duck_White_U
+  - first:
+      23: 2300006
+    second: SA_Animals_Rooster_Brown_U
+  - first:
+      33: 3300000
+    second: SA_Animals_Chicken_Brown_U
+  - first:
+      33: 3300002
+    second: SA_Animals_Duck_Brown_U
+  - first:
+      33: 3300004
+    second: SA_Animals_Duck_White_U
+  - first:
+      33: 3300006
+    second: SA_Animals_Rooster_Brown_U
+  - first:
+      43: 4300000
+    second: SA_Animals_Chicken_Brown_U
+  - first:
+      43: 4300002
+    second: SA_Animals_Duck_Brown_U
+  - first:
+      43: 4300004
+    second: SA_Animals_Duck_White_U
+  - first:
+      43: 4300006
+    second: SA_Animals_Rooster_Brown_U
+  - first:
+      43: 4300008
+    second: SA_Animals_Chicken_White
+  - first:
+      43: 4300010
+    second: SA_Animals_Duck_Green
+  - first:
+      43: 4300012
+    second: SA_Animals_Rooster_Black
+  - first:
+      43: 4300014
+    second: SA_Animals_Rooster_Brown
+  - first:
+      43: 4300016
+    second: SA_Animals_Duck_White
+  - first:
+      43: 4300018
+    second: SA_Animals_Duck_Brown
+  - first:
+      43: 4300020
+    second: SA_Animals_Chicken_Brown
+  - first:
+      74: 7400000
+    second: Birds_Idle
+  - first:
+      74: 7400002
+    second: Birds_Walk
+  - first:
+      74: 7400004
+    second: Birds_Run
+  - first:
+      74: 7400006
+    second: Birds_Eat
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SA_Animals_Chicken_White
+  - first:
+      137: 13700002
+    second: SA_Animals_Duck_Green
+  - first:
+      137: 13700004
+    second: SA_Animals_Rooster_Black
+  - first:
+      137: 13700006
+    second: SA_Animals_Chicken_Brown
+  - first:
+      137: 13700008
+    second: SA_Animals_Duck_Brown
+  - first:
+      137: 13700010
+    second: SA_Animals_Duck_White
+  - first:
+      137: 13700012
+    second: SA_Animals_Rooster_Brown
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birds_Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickenRig_SHJntGrp
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt/ChickenRig_l_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt/ChickenRig_Head_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt/ChickenRig_r_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt/ChickenRig_Tail_TopSHJnt
+        weight: 1
+      - path: SA_Animals_Chicken_Brown
+        weight: 1
+      - path: SA_Animals_Chicken_White
+        weight: 1
+      - path: SA_Animals_Duck_Brown
+        weight: 1
+      - path: SA_Animals_Duck_Green
+        weight: 1
+      - path: SA_Animals_Duck_White
+        weight: 1
+      - path: SA_Animals_Rooster_Black
+        weight: 1
+      - path: SA_Animals_Rooster_Brown
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Birds_Walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 130
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickenRig_SHJntGrp
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt/ChickenRig_l_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt/ChickenRig_Head_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt/ChickenRig_r_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt/ChickenRig_Tail_TopSHJnt
+        weight: 1
+      - path: SA_Animals_Chicken_Brown
+        weight: 1
+      - path: SA_Animals_Chicken_White
+        weight: 1
+      - path: SA_Animals_Duck_Brown
+        weight: 1
+      - path: SA_Animals_Duck_Green
+        weight: 1
+      - path: SA_Animals_Duck_White
+        weight: 1
+      - path: SA_Animals_Rooster_Black
+        weight: 1
+      - path: SA_Animals_Rooster_Brown
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Birds_Run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 170
+      lastFrame: 187
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickenRig_SHJntGrp
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt/ChickenRig_l_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt/ChickenRig_Head_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt/ChickenRig_r_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt/ChickenRig_Tail_TopSHJnt
+        weight: 1
+      - path: SA_Animals_Chicken_Brown
+        weight: 1
+      - path: SA_Animals_Chicken_White
+        weight: 1
+      - path: SA_Animals_Duck_Brown
+        weight: 1
+      - path: SA_Animals_Duck_Green
+        weight: 1
+      - path: SA_Animals_Duck_White
+        weight: 1
+      - path: SA_Animals_Rooster_Black
+        weight: 1
+      - path: SA_Animals_Rooster_Brown
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Birds_Eat
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 200
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ChickenRig_SHJntGrp
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_l_Leg_HipSHJnt/ChickenRig_l_Leg_KneeSHJnt/ChickenRig_l_Leg_AnkleSHJnt/ChickenRig_l_Leg_BallSHJnt/ChickenRig_l_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Neck_01SHJnt/ChickenRig_Neck_02SHJnt/ChickenRig_Neck_TopSHJnt/ChickenRig_Head_TopSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_r_Leg_HipSHJnt/ChickenRig_r_Leg_KneeSHJnt/ChickenRig_r_Leg_AnkleSHJnt/ChickenRig_r_Leg_BallSHJnt/ChickenRig_r_Leg_ToeSHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt
+        weight: 1
+      - path: ChickenRig_SHJntGrp/ChickenRig_ROOTSHJnt/ChickenRig_Tail_01SHJnt/ChickenRig_Tail_02SHJnt/ChickenRig_Tail_TopSHJnt
+        weight: 1
+      - path: SA_Animals_Chicken_Brown
+        weight: 1
+      - path: SA_Animals_Chicken_White
+        weight: 1
+      - path: SA_Animals_Duck_Brown
+        weight: 1
+      - path: SA_Animals_Duck_Green
+        weight: 1
+      - path: SA_Animals_Duck_White
+        weight: 1
+      - path: SA_Animals_Rooster_Black
+        weight: 1
+      - path: SA_Animals_Rooster_Brown
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 20
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

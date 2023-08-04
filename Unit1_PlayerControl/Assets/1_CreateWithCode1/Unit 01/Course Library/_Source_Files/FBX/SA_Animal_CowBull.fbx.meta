@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: f18cd949d6d73cb459e428cd63e6ac27
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: CowRig_Head_JawEndSHJnt
+  - first:
+      1: 100002
+    second: CowRig_Head_JawSHJnt
+  - first:
+      1: 100004
+    second: CowRig_Head_TopSHJnt
+  - first:
+      1: 100006
+    second: CowRig_l_Clavicle_01_01SHJnt
+  - first:
+      1: 100008
+    second: CowRig_l_Eye_01SHJnt
+  - first:
+      1: 100010
+    second: CowRig_l_FrontLeg_AnkleSHJnt
+  - first:
+      1: 100012
+    second: CowRig_l_FrontLeg_BallSHJnt
+  - first:
+      1: 100014
+    second: CowRig_l_FrontLeg_HipSHJnt
+  - first:
+      1: 100016
+    second: CowRig_l_FrontLeg_Knee1SHJnt
+  - first:
+      1: 100018
+    second: CowRig_l_FrontLeg_Knee2SHJnt
+  - first:
+      1: 100020
+    second: CowRig_l_FrontLeg_ToeSHJnt
+  - first:
+      1: 100022
+    second: CowRig_l_HindLeg_AnkleSHJnt
+  - first:
+      1: 100024
+    second: CowRig_l_HindLeg_BallSHJnt
+  - first:
+      1: 100026
+    second: CowRig_l_HindLeg_HipSHJnt
+  - first:
+      1: 100028
+    second: CowRig_l_HindLeg_Knee1SHJnt
+  - first:
+      1: 100030
+    second: CowRig_l_HindLeg_Knee2SHJnt
+  - first:
+      1: 100032
+    second: CowRig_l_HindLeg_ToeSHJnt
+  - first:
+      1: 100034
+    second: CowRig_Neck_01SHJnt
+  - first:
+      1: 100036
+    second: CowRig_Neck_02SHJnt
+  - first:
+      1: 100038
+    second: CowRig_Neck_TopSHJnt
+  - first:
+      1: 100040
+    second: CowRig_r_Clavicle_01_01SHJnt
+  - first:
+      1: 100042
+    second: CowRig_r_Eye_01SHJnt
+  - first:
+      1: 100044
+    second: CowRig_r_FrontLeg_AnkleSHJnt
+  - first:
+      1: 100046
+    second: CowRig_r_FrontLeg_BallSHJnt
+  - first:
+      1: 100048
+    second: CowRig_r_FrontLeg_HipSHJnt
+  - first:
+      1: 100050
+    second: CowRig_r_FrontLeg_Knee1SHJnt
+  - first:
+      1: 100052
+    second: CowRig_r_FrontLeg_Knee2SHJnt
+  - first:
+      1: 100054
+    second: CowRig_r_FrontLeg_ToeSHJnt
+  - first:
+      1: 100056
+    second: CowRig_r_HindLeg_AnkleSHJnt
+  - first:
+      1: 100058
+    second: CowRig_r_HindLeg_BallSHJnt
+  - first:
+      1: 100060
+    second: CowRig_r_HindLeg_HipSHJnt
+  - first:
+      1: 100062
+    second: CowRig_r_HindLeg_Knee1SHJnt
+  - first:
+      1: 100064
+    second: CowRig_r_HindLeg_Knee2SHJnt
+  - first:
+      1: 100066
+    second: CowRig_r_HindLeg_ToeSHJnt
+  - first:
+      1: 100068
+    second: CowRig_ROOTSHJnt
+  - first:
+      1: 100070
+    second: CowRig_SHJntGrp
+  - first:
+      1: 100072
+    second: CowRig_Spine_01SHJnt
+  - first:
+      1: 100074
+    second: CowRig_Spine_02SHJnt
+  - first:
+      1: 100076
+    second: CowRig_Spine_03SHJnt
+  - first:
+      1: 100078
+    second: CowRig_Spine_TopSHJnt
+  - first:
+      1: 100080
+    second: CowRig_Tail_01_01SHJnt
+  - first:
+      1: 100082
+    second: CowRig_Tail_01_02SHJnt
+  - first:
+      1: 100084
+    second: CowRig_Tail_01_03SHJnt
+  - first:
+      1: 100086
+    second: CowRig_Tail_01_04SHJnt
+  - first:
+      1: 100088
+    second: CowRig_Tail_01_05SHJnt
+  - first:
+      1: 100090
+    second: //RootNode
+  - first:
+      1: 100092
+    second: SA_Animals_Bull_Black
+  - first:
+      1: 100094
+    second: SA_Animals_Bull_Brown
+  - first:
+      1: 100096
+    second: SA_Animals_Cow_Brown
+  - first:
+      1: 100098
+    second: SA_Animals_Cow_White
+  - first:
+      4: 400000
+    second: CowRig_Head_JawEndSHJnt
+  - first:
+      4: 400002
+    second: CowRig_Head_JawSHJnt
+  - first:
+      4: 400004
+    second: CowRig_Head_TopSHJnt
+  - first:
+      4: 400006
+    second: CowRig_l_Clavicle_01_01SHJnt
+  - first:
+      4: 400008
+    second: CowRig_l_Eye_01SHJnt
+  - first:
+      4: 400010
+    second: CowRig_l_FrontLeg_AnkleSHJnt
+  - first:
+      4: 400012
+    second: CowRig_l_FrontLeg_BallSHJnt
+  - first:
+      4: 400014
+    second: CowRig_l_FrontLeg_HipSHJnt
+  - first:
+      4: 400016
+    second: CowRig_l_FrontLeg_Knee1SHJnt
+  - first:
+      4: 400018
+    second: CowRig_l_FrontLeg_Knee2SHJnt
+  - first:
+      4: 400020
+    second: CowRig_l_FrontLeg_ToeSHJnt
+  - first:
+      4: 400022
+    second: CowRig_l_HindLeg_AnkleSHJnt
+  - first:
+      4: 400024
+    second: CowRig_l_HindLeg_BallSHJnt
+  - first:
+      4: 400026
+    second: CowRig_l_HindLeg_HipSHJnt
+  - first:
+      4: 400028
+    second: CowRig_l_HindLeg_Knee1SHJnt
+  - first:
+      4: 400030
+    second: CowRig_l_HindLeg_Knee2SHJnt
+  - first:
+      4: 400032
+    second: CowRig_l_HindLeg_ToeSHJnt
+  - first:
+      4: 400034
+    second: CowRig_Neck_01SHJnt
+  - first:
+      4: 400036
+    second: CowRig_Neck_02SHJnt
+  - first:
+      4: 400038
+    second: CowRig_Neck_TopSHJnt
+  - first:
+      4: 400040
+    second: CowRig_r_Clavicle_01_01SHJnt
+  - first:
+      4: 400042
+    second: CowRig_r_Eye_01SHJnt
+  - first:
+      4: 400044
+    second: CowRig_r_FrontLeg_AnkleSHJnt
+  - first:
+      4: 400046
+    second: CowRig_r_FrontLeg_BallSHJnt
+  - first:
+      4: 400048
+    second: CowRig_r_FrontLeg_HipSHJnt
+  - first:
+      4: 400050
+    second: CowRig_r_FrontLeg_Knee1SHJnt
+  - first:
+      4: 400052
+    second: CowRig_r_FrontLeg_Knee2SHJnt
+  - first:
+      4: 400054
+    second: CowRig_r_FrontLeg_ToeSHJnt
+  - first:
+      4: 400056
+    second: CowRig_r_HindLeg_AnkleSHJnt
+  - first:
+      4: 400058
+    second: CowRig_r_HindLeg_BallSHJnt
+  - first:
+      4: 400060
+    second: CowRig_r_HindLeg_HipSHJnt
+  - first:
+      4: 400062
+    second: CowRig_r_HindLeg_Knee1SHJnt
+  - first:
+      4: 400064
+    second: CowRig_r_HindLeg_Knee2SHJnt
+  - first:
+      4: 400066
+    second: CowRig_r_HindLeg_ToeSHJnt
+  - first:
+      4: 400068
+    second: CowRig_ROOTSHJnt
+  - first:
+      4: 400070
+    second: CowRig_SHJntGrp
+  - first:
+      4: 400072
+    second: CowRig_Spine_01SHJnt
+  - first:
+      4: 400074
+    second: CowRig_Spine_02SHJnt
+  - first:
+      4: 400076
+    second: CowRig_Spine_03SHJnt
+  - first:
+      4: 400078
+    second: CowRig_Spine_TopSHJnt
+  - first:
+      4: 400080
+    second: CowRig_Tail_01_01SHJnt
+  - first:
+      4: 400082
+    second: CowRig_Tail_01_02SHJnt
+  - first:
+      4: 400084
+    second: CowRig_Tail_01_03SHJnt
+  - first:
+      4: 400086
+    second: CowRig_Tail_01_04SHJnt
+  - first:
+      4: 400088
+    second: CowRig_Tail_01_05SHJnt
+  - first:
+      4: 400090
+    second: //RootNode
+  - first:
+      4: 400092
+    second: SA_Animals_Bull_Black
+  - first:
+      4: 400094
+    second: SA_Animals_Bull_Brown
+  - first:
+      4: 400096
+    second: SA_Animals_Cow_Brown
+  - first:
+      4: 400098
+    second: SA_Animals_Cow_White
+  - first:
+      43: 4300000
+    second: SA_Animals_Bull_Black
+  - first:
+      43: 4300002
+    second: SA_Animals_Cow_Brown
+  - first:
+      43: 4300004
+    second: SA_Animals_Cow_White
+  - first:
+      43: 4300006
+    second: SA_Animals_Bull_Brown
+  - first:
+      74: 7400000
+    second: CowBull_Idle
+  - first:
+      74: 7400002
+    second: CowBull_Walk
+  - first:
+      74: 7400004
+    second: CowBull_Run
+  - first:
+      74: 7400006
+    second: CowBull_Eat
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SA_Animals_Bull_Black
+  - first:
+      137: 13700002
+    second: SA_Animals_Bull_Brown
+  - first:
+      137: 13700004
+    second: SA_Animals_Cow_Brown
+  - first:
+      137: 13700006
+    second: SA_Animals_Cow_White
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CowBull_Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CowRig_SHJntGrp
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt/CowRig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt/CowRig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt/CowRig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt/CowRig_Head_JawEndSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_l_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_r_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt/CowRig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt/CowRig_Tail_01_05SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Black
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_White
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CowBull_Walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 130
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CowRig_SHJntGrp
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt/CowRig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt/CowRig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt/CowRig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt/CowRig_Head_JawEndSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_l_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_r_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt/CowRig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt/CowRig_Tail_01_05SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Black
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_White
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CowBull_Run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 180
+      lastFrame: 204
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CowRig_SHJntGrp
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt/CowRig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt/CowRig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt/CowRig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt/CowRig_Head_JawEndSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_l_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_r_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt/CowRig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt/CowRig_Tail_01_05SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Black
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_White
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CowBull_Eat
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 210
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CowRig_SHJntGrp
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_l_HindLeg_HipSHJnt/CowRig_l_HindLeg_Knee1SHJnt/CowRig_l_HindLeg_Knee2SHJnt/CowRig_l_HindLeg_AnkleSHJnt/CowRig_l_HindLeg_BallSHJnt/CowRig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_r_HindLeg_HipSHJnt/CowRig_r_HindLeg_Knee1SHJnt/CowRig_r_HindLeg_Knee2SHJnt/CowRig_r_HindLeg_AnkleSHJnt/CowRig_r_HindLeg_BallSHJnt/CowRig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_l_Clavicle_01_01SHJnt/CowRig_l_FrontLeg_HipSHJnt/CowRig_l_FrontLeg_Knee1SHJnt/CowRig_l_FrontLeg_Knee2SHJnt/CowRig_l_FrontLeg_AnkleSHJnt/CowRig_l_FrontLeg_BallSHJnt/CowRig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_JawSHJnt/CowRig_Head_JawEndSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_l_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_Neck_01SHJnt/CowRig_Neck_02SHJnt/CowRig_Neck_TopSHJnt/CowRig_Head_TopSHJnt/CowRig_r_Eye_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Spine_01SHJnt/CowRig_Spine_02SHJnt/CowRig_Spine_03SHJnt/CowRig_Spine_TopSHJnt/CowRig_r_Clavicle_01_01SHJnt/CowRig_r_FrontLeg_HipSHJnt/CowRig_r_FrontLeg_Knee1SHJnt/CowRig_r_FrontLeg_Knee2SHJnt/CowRig_r_FrontLeg_AnkleSHJnt/CowRig_r_FrontLeg_BallSHJnt/CowRig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/CowRig_ROOTSHJnt/CowRig_Tail_01_01SHJnt/CowRig_Tail_01_02SHJnt/CowRig_Tail_01_03SHJnt/CowRig_Tail_01_04SHJnt/CowRig_Tail_01_05SHJnt
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Black
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Bull_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_Brown
+        weight: 1
+      - path: CowRig_SHJntGrp/SA_Animals_Cow_White
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 20
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
